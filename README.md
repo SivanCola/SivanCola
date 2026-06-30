@@ -10,12 +10,12 @@ AI coding, developer tooling, automation, and product-minded engineering.
 
 ## About
 
-I build tools that make development loops faster and less fragile. Recently I have been working around AI coding workflows, Codex/DeepSeek integrations, VS Code and desktop tooling, browser extensions, and automation scripts.
+I build tools that make development loops faster and less fragile. Recently I have been working around AI coding workflows, coding-agent integrations, editor tooling, browser extensions, desktop utilities, and automation scripts.
 
 - Focus: AI developer experience, coding agents, productivity tooling
 - Location: HK
 - Working style: small verifiable changes, practical automation, tight feedback loops
-- Contact: [liuxw96@foxmail.com](mailto:liuxw96@foxmail.com)
+- Contact: [GitHub profile](https://github.com/SivanCola)
 
 ## Current Interests
 
@@ -33,15 +33,12 @@ I build tools that make development loops faster and less fragile. Recently I ha
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-## Selected Projects
+## What I Work On
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [deepseek-forge](https://github.com/SivanCola/deepseek-forge) | Codex plugin that asks DeepSeek to generate safe unified diffs while Codex plans, applies, and verifies. | Python |
-| [reasonix-vscode](https://github.com/SivanCola/reasonix-vscode) | VS Code-side tooling around the Reasonix workflow. | TypeScript |
-| [super-tab-out](https://github.com/SivanCola/super-tab-out) | Browser productivity extension for tab flow and navigation. | JavaScript |
-| [my_skills](https://github.com/SivanCola/my_skills) | Personal automation and agent skill collection. | Python |
-| [shell](https://github.com/SivanCola/shell) | Common shell utilities and workflow helpers. | Shell |
+- **AI-assisted development:** coding-agent workflows, patch review loops, and verification-first automation.
+- **Developer productivity:** editor extensions, browser utilities, CLI helpers, and scripts that reduce repetitive work.
+- **Product engineering:** practical interfaces, reliable workflows, and small tools that are pleasant to use every day.
+- **Automation systems:** connecting local tools, web services, and repeatable processes into dependable workflows.
 
 ## GitHub Activity
 
