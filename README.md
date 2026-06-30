@@ -42,13 +42,7 @@ I build tools that make development loops faster and less fragile. Recently I ha
 
 ## GitHub Activity
 
-<div align="center">
-
-![SivanCola's GitHub stats](https://github-readme-stats.vercel.app/api?username=SivanCola&show_icons=true&hide_border=true&theme=transparent)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SivanCola&layout=compact&hide_border=true&theme=transparent)
-
-</div>
+Public contributions and profile activity are available on [my GitHub profile](https://github.com/SivanCola). I keep this README lightweight so it does not depend on third-party stats images that may fail to load.
 
 ## Notes
 
